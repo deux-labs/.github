@@ -6,6 +6,8 @@ Làm trong lúc rảnh keke. Phục vụ học tập là chính
 console.log("happy coding")
 ```
 
+Core members: [Lee](https://github.com/huylee99), [Antar](https://github.com/NguyenVanHien22)
+
 <!--
 
 **Here are some ideas to get you started:**
